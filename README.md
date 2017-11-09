@@ -4,7 +4,7 @@
 <p> using to enumerate Web Server looking for path Weekness 
 
 # Video
-[![Watch the video](https://www.youtube.com/watch?v=skRWxa360ds)
+<h1>Link</h1>  https://www.youtube.com/watch?v=skRWxa360ds
 
 # Platform:Python
 
