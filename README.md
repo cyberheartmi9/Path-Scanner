@@ -4,7 +4,7 @@
 <p> using to enumerate Web Server looking for path Weekness 
 
 <p>Video </p>
-  [![Alt text for your video](https://www.youtube.com/watch?v=skRWxa360ds)
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=skRWxa360ds)
 
 # Platform:Python
 
